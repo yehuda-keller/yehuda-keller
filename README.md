@@ -1,4 +1,4 @@
-# Hi there, I'm [Yehuda keller] 👋
+# Hi there, I'm Yehuda keller 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
