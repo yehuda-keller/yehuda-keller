@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm [Yehuda keller] 👋
 
-<!--
-**yehuda-keller/yehuda-keller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a student
+- 🌱 I’m currently learning Computer Science
+- 🤔 I’m looking for help with Finding a job
+- 💬 Ask me about my projects
+- 📫 How to reach me: yehudak435@gmail.com
+
+
+## 🚀 Projects
+
+workin on it...
+
+## 🛠️ Skills
+
+- **Languages:** Python, JavaScript, Java, Node.
+- **Frameworks:** React
+- **Tools:** Git
+
+## 📊 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/yehuda-keller-999711216/))
+- [Email](mailto:yehudak435@gmail/com)
+
+## 💼 Experience
+
+
