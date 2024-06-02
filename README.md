@@ -27,7 +27,7 @@ workin on it...
 
 ## 📫 Connect with Me
 
-- [LinkedIn](your-linkedin-url](https://www.linkedin.com/in/yehuda-keller-999711216/)(https://www.linkedin.com/in/yehuda-keller-999711216/))
+- [LinkedIn](https://www.linkedin.com/in/yehuda-keller-999711216/)
 - [Email](mailto:yehudak435@gmail/com)
 
 ## 💼 Experience
