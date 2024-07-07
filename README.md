@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I am a proactive software developer and recent Com
 <a href="mailto:yehudak435@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
 <h2 align="center">Skills & Tools 🚀</h2>
 <p align="center">
   <!-- Front-end -->
@@ -35,38 +33,11 @@ Welcome to my GitHub profile! I am a proactive software developer and recent Com
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   
-  <!-- Version Control -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  
   <!-- Other Tools -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png" alt="SFML" width="40" height="40"/>
 
   <!-- Operating System -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-
-
-
-## 🚀 Projects
-
-workin on it...
-
-## 🛠️ Skills
-
-- **Languages:** Python, JavaScript, Java, Node.
-- **Frameworks:** React
-- **Tools:** Git
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehuda-keller&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yehuda-keller-999711216/)
-- [Email](mailto:yehudak435@gmail/com)
-
-## 💼 Experience
 
 
