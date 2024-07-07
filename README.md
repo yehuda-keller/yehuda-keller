@@ -43,5 +43,5 @@ Welcome to my GitHub profile! I am a proactive software developer and recent Com
 <h2 align="center">GitHub Stats 📊</h2>
 <div style="display: flex; justify-content: space-between;" align="center">
   <img height="160px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yehuda-keller&show_icons=true&hide_rank=true" />
-  <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyehuda-keller&layout=compact" />
+  <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehuda-keller&layout=compact" />
 </div>
